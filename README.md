@@ -1,16 +1,16 @@
-### Hi there 👋
+# Présentation 
 
-<!--
-**hugogouveiasardinha/hugogouveiasardinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![alt text](https://ca.slack-edge.com/T051CP7QT3K-U05488YGSTS-14f64403b00f-120 "Hugo")
+* Prénom: Hugo
+* Nom: Gouveia Sardinha
+* Âge: 33 ans
+* Ville: Saint-Cyr-la-Rivière
 
-Here are some ideas to get you started:
+## Qui suis-je?
+Bonjour tout le monde!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+J'habite à [Saint-Cyr-la-Rivière](https://fr.wikipedia.org/wiki/Saint-Cyr-la-Rivi%C3%A8re "Saint-Cyr-la-Rivière"), en Essonne et j'ai 33 ans. J'aime bien regarder des séries, des jeux video, des activités à l'air libre et mes animaux (j'ai un chat et un chien).
+
+Je fais cette formation dans le cadre d'une **reconversion professionelle** suite à un **bilan de compétences**.
+
+Infirmier de base, j'ai pu travailler quelques années au sein d'un hôpital public en Val-de-Marne et au sein d'un laboratoire d'analyses médicales en Essonne.
