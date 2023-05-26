@@ -9,7 +9,7 @@
 ## Qui suis-je?
 Bonjour tout le monde!
 
-J'habite à [Saint-Cyr-la-Rivière](https://fr.wikipedia.org/wiki/Saint-Cyr-la-Rivi%C3%A8re "Saint-Cyr-la-Rivière"), en Essonne et j'ai 33 ans. J'aime bien regarder des séries, des jeux video, des activités à l'air libre et mes animaux (j'ai un chat et un chien).
+J'habite à [Saint-Cyr-la-Rivière](https://fr.wikipedia.org/wiki/Saint-Cyr-la-Rivi%C3%A8re "Saint-Cyr-la-Rivière"), en Essonne et j'ai 33 ans. J'aime bien regarder des séries, des jeux video, des activités à l'air libre et mes animaux.
 
 Je fais cette formation dans le cadre d'une **reconversion professionelle** suite à un **bilan de compétences**.
 
