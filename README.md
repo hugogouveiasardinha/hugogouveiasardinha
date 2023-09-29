@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour 👋 Je m'appelle Hugo !</h1>
 <h3 align="center">Bienvenue sur mon profil Github!</h3>
 
-- 🔭 Actuellement en formation chez (O'clock)[https://oclock.io/]
+- 🔭 Actuellement en formation chez [O'clock](https://oclock.io/)
 
 - 📫 Contact **hgsardinha@gmail.com**
 
